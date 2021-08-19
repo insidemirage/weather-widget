@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.weather * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.weather {
+  box-sizing: border-box;
+  position: fixed;
+  right: 0;
+  top: 50%;
+  color: #ffff;;
+  font-family: 'Roboto', sans-serif;
+  transform: translateY(-50%);
+  padding: 5px 10px 10px;
+  border-radius: 5px;
+  background-color: #282c34;
+  width: 270px;
+  z-index: 1000;
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "speed": 1,
+    "text": "Calm"
+  },
+  {
+    "speed": 3,
+    "text": "Light air"
+  },
+  {
+    "speed": 7,
+    "text": "Light breeze"
+  },
+  {
+    "speed": 12,
+    "text": "Gentle breeze"
+  },
+  {
+    "speed": 18,
+    "text": "Moderate breeze"
+  },
+  {
+    "speed": 24,
+    "text": "Fresh breeze"
+  },
+  {
+    "speed": 31,
+    "text": "Strong breeze"
+  },
+  {
+    "speed": 38,
+    "text": "Near gale"
+  },
+  {
+    "speed": 54,
+    "text": "Severe breeze"
+  },
+  {
+    "speed": 63,
+    "text": "Storm"
+  },
+  {
+    "speed": 73,
+    "text": "Violent storm"
+  },
+  {
+    "speed": 1000,
+    "text": "Hurricane"
+  }
+]
