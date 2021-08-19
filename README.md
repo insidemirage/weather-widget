@@ -4,13 +4,17 @@ Widget shows weather in different cities.
 React, Typescript/ES7, SCSS
 
 ## Development
-To start local development server run   
+Create .env file in root directory   
+```
+REACT_APP_API_KEY=YOUR_API_KEY
+```
+To start local development server run  
 `yarn start`   
 To build app for production use:    
 `yarn build`
 
 ## Setup
-First of all, build app (take javascript and image files) or take release. Put it in any directory, and add the following to your `.html` file,
+First of all, build app (take javascript and image files) . Put it in any directory, and add the following to your `.html` file,
 in which you want to include the widget.
 
 ```html
